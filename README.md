@@ -1,5 +1,7 @@
 # undergraduate_research_capstone
 
+UC Undergraduate Research Capstone Code Implementation (Ryan Kamp; Presented: 4/11/25, Last Updated: 6/4/25)
+
 These files contain my implementation of the following paper:
 
 Notes on Normative Solutions to the Speed-Accuracy Trade-Off in Perceptual Decision-Making (Jan Drugowitsch, 2015).
