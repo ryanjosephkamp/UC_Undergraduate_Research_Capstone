@@ -6,7 +6,7 @@ These files contain my implementation of the following paper:
 
 Notes on Normative Solutions to the Speed-Accuracy Trade-Off in Perceptual Decision-Making (Jan Drugowitsch, 2015).
 
-For more details, please see my presentation of this paper on YouTube: https://youtu.be/3-yP6Apn1U4
+For more details, please see my presentation of this paper on YouTube: https://youtu.be/LRAP1YHy3g0
 
 Links to Jan Drugowitsch:
 - Lab: https://www.drugowitschlab.org/
